@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.2.45",
+    "vue-flatpickr-component": "^11.0.2",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {

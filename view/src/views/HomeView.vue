@@ -43,7 +43,7 @@
     </div>
   </div>
   <!--  -->
-  <div class="bg-black text-white pb-5 mt-5 pt-5 mt-20">
+  <div class="bg-black text-white pb-5 mt-10 pt-5 mt-20">
     <div class="lato text-center mb-5 text-2xl">
       NOS SERVICES
     </div>
